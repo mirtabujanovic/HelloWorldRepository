@@ -1,2 +1,3 @@
 # HelloWorldRepository
-Where no man has gone before..
+Space: the final frontier.
+These are the voyages of the starship Enterprise. Its five-year mission: to explore strange new worlds; to seek out new life and new civilisations; to boldly go where no man has gone before.
